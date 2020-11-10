@@ -2,6 +2,3 @@
 
 * [Introduction](README.md)
 
-
-* samplepage
-
